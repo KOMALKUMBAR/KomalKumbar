@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Komal Kumbar</h1>
 <h3 align="center">Android Developer | Kotlin | MVVM | Firebase | API Integration</h3>
 
-<img align="right" alt="Coding" width="380" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
+<img align="right" alt="Android Developer" width="380" 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 I’m currently working as **Android Developer at Infusys Pvt Ltd**
 - 🌱 I’m currently learning **Clean Architecture & Advanced Compose**
